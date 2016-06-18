@@ -1,11 +1,6 @@
-#prueba de repositorio ;)
+#PRUEBA DE REPOSITORIO
 
-Hey Git! Este es un nuevo texto
+EFECTOS DE PRUEBAS
 
-hagamos una prueba mas!
-comencemos con un saludo :)
-
-bien, las pruebas fueron exitosas
-ADIOS! ;)
-
-_(**)/
+prueba 1  
+texto plano 
