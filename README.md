@@ -1,10 +1,8 @@
 #TALLER GIT & GITHUB 2
-#PRUEBA DE REPOSITORIO
-
 
 EFECTOS DE PRUEBAS
 
-prueba 1  
-texto plano
+prueba 1.0  
+TEXTO PLANO
 
-prueba exitosa!
+efectos de pruebas: 
