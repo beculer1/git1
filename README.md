@@ -1,4 +1,4 @@
-#Esto es mi primer repositorio
+#prueba de repositorio ;)
 
 Hey Git! Este es un nuevo texto
 
