@@ -5,4 +5,5 @@ EFECTOS DE PRUEBAS
 prueba 1.0  
 TEXTO PLANO
 
-efectos de pruebas: 
+efectos de pruebas:
+exitosas
