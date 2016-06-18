@@ -1,3 +1,3 @@
 #Esto es mi primer repositorio
 
-Hola Git 
+Hey Git! Este es un nuevo texto
