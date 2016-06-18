@@ -1,4 +1,4 @@
-#prueba de repositorio ;)
+#TALLER GIT & GITHUB 2
 
 Hey Git! Este es un nuevo texto
 
