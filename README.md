@@ -1,11 +1,10 @@
 #TALLER GIT & GITHUB 2
+#PRUEBA DE REPOSITORIO
 
-Hey Git! Este es un nuevo texto
 
-hagamos una prueba mas!
-comencemos con un saludo :)
+EFECTOS DE PRUEBAS
 
-bien, las pruebas fueron exitosas
-ADIOS! ;)
+prueba 1  
+texto plano
 
-_(**)/
+prueba exitosa!
